@@ -5,45 +5,30 @@ body {
     background-color: white;
 }
 
-.header {
-    background-color: black;
-    height: 50px;
+.header .header-logo {
+    display: flex;
+    justify-content: center;
+    background-color: #7a7a7a;
+}
+
+.header .header-logo img {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    width: 150px;
+    display: flex;
+}
+
+.header .header-content {
+    background-color: #7a7a7a;
     width: 100%;
-    z-index: 999;
+    height: 70px;
 }
 
-.header .header-title {
-    float: left;
-    margin-top: 10px;
-    margin-left: 30px;
-    color: #ffffff;
-}
-
-.header .menu {
-    float: right;
-    margin-top: 10px;
-    margin-right: 30px;
-}
-
-.header .menu a {
-    color: #ffffff;
-    padding-left: 20px;
-}
-
-.header .menu a:hover {
-    color: #c1c1c1;
-}
-
-
-
-.footer .footer-title {
+.header .header-content .content-center .menu {
     text-align: center;
 }
 
-.footer .menu {
-    text-align: center;
-}
-
-.footer .menu .social {
-    display: inline-block;
+.header .header-content .content-center .menu a {
+    color: #ffffff;
 }
