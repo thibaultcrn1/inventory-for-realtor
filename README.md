@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/thibaultcrn1/inventory-for-realtor">
-    <img src="assets/logo.png" alt="Logo de Thibault" width="80" height="80">
+    <img src="img/logo_web.png" alt="Logo AddImmo" width="80" height="80">
   </a>
 
   <h3 align="center">inventory-for-realtor</h3>
