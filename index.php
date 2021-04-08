@@ -45,6 +45,7 @@ if($_POST){
 
 <?php include 'includes/header.php'; ?>
 
+<!--
 <div class="container">
     <form action='' method="POST">
         <input type="text" name="usname" placeholder="Name" required>
@@ -53,5 +54,6 @@ if($_POST){
         <input type="submit" value="Add User">
     </form>
 </div>
+-->
 
 <?php include 'includes/footer.php'; ?>
