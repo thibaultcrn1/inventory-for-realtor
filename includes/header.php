@@ -22,7 +22,7 @@
         <div class="block">
             <header class="header">
                 <div class="header-logo">
-                    <img src="img/logo_web.png" alt="logo">
+                    <a href="https://www.addimmo.fr/contact,110"><img src="img/logo_web.png" alt="logo"></a>
                 </div>
                 <div class="header-content">
                     <div class="content-left">
@@ -30,11 +30,11 @@
                     </div>
                     <div class="content-center">
                         <nav class="menu">
-                            <a href="#">ACCUEIL</a>
-                            <a href="#">ACHETER</a>
-                            <a href="#">LOUER</a>
-                            <a href="#">VENDRE</a>
-                            <a href="#">CONTACT</a>
+                            <a href="https://www.addimmo.fr/">ACCUEIL</a>
+                            <a href="https://www.addimmo.fr/vente">ACHETER</a>
+                            <a href="https://www.addimmo.fr/location">LOUER<i class="fas fa-angle-down"></i></a>
+                            <a href="https://www.addimmo.fr/vendre,106">VENDRE<i class="fas fa-angle-down"></i></a>
+                            <a href="https://www.addimmo.fr/contact,110">CONTACT<i class="fas fa-angle-down"></i></a>
                         </nav>
                     </div>
                     <div class="content-right">
