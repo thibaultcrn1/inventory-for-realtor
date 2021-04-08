@@ -13,21 +13,33 @@
         <meta name="description" content="Service d'États des lieux">
 
         <!-- LINK -->
-        <link rel="stylesheet" href="./libs/bulma/css/bulma.min.css">
-        <link rel="stylesheet" href="./css/style.css">
+        <link rel="stylesheet" href="libs/bulma/css/bulma.min.css">
+        <link rel="stylesheet" href="css/style.css">
 
     </head>
     <body>
         <!-- HEADER -->
         <div class="block">
             <header class="header">
-                <div class="header-title">Add'Immo</div>
-                <nav class="menu">
-                    <a href="#">Accueil</a>
-                    <a href="#">Achat</a>
-                    <a href="#">Location</a>
-                    <a href="#">ETC...</a>
-                    <a href="#">Contact</a>
-                </nav>
+                <div class="header-logo">
+                    <img src="img/logo_web.png" alt="logo">
+                </div>
+                <div class="header-content">
+                    <div class="content-left">
+
+                    </div>
+                    <div class="content-center">
+                        <nav class="menu">
+                            <a href="#">ACCUEIL</a>
+                            <a href="#">ACHETER</a>
+                            <a href="#">LOUER</a>
+                            <a href="#">VENDRE</a>
+                            <a href="#">CONTACT</a>
+                        </nav>
+                    </div>
+                    <div class="content-right">
+
+                    </div>
+                </div>
             </header>
         </div>
