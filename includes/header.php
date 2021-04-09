@@ -25,21 +25,18 @@
                     <a href="https://www.addimmo.fr/contact,110"><img src="img/logo_web.png" alt="logo"></a>
                 </div>
                 <div class="header-content">
-                    <div class="content-left">
-
-                    </div>
-                    <div class="content-center">
-                        <nav class="menu">
-                            <a href="https://www.addimmo.fr/">ACCUEIL</a>
-                            <a href="https://www.addimmo.fr/vente">ACHETER</a>
-                            <a href="https://www.addimmo.fr/location">LOUER<i class="fas fa-angle-down"></i></a>
-                            <a href="https://www.addimmo.fr/vendre,106">VENDRE<i class="fas fa-angle-down"></i></a>
-                            <a href="https://www.addimmo.fr/contact,110">CONTACT<i class="fas fa-angle-down"></i></a>
-                        </nav>
-                    </div>
-                    <div class="content-right">
-
-                    </div>
+                    <nav class="menu-left">
+                        <a href="#"><i class="far fa-heart"></i></a>
+                        <a href="#"><i class="fas fa-user-alt"></i></a>
+                    </nav>
+                    <nav class="menu-center">
+                        <a href="https://www.addimmo.fr/">ACCUEIL</a>
+                        <a href="https://www.addimmo.fr/vente">ACHETER</a>
+                        <a href="https://www.addimmo.fr/location">LOUER<i class="fas fa-angle-down"></i></a>
+                        <a href="https://www.addimmo.fr/vendre,106">VENDRE<i class="fas fa-angle-down"></i></a>
+                        <a href="https://www.addimmo.fr/contact,110">CONTACT<i class="fas fa-angle-down"></i></a>
+                    </nav>
+                    <a href="#" class="button-contact"><button class="button is-danger is-rounded"><i class="fas fa-phone-alt"></i>Être rappelé</button></a>
                 </div>
             </header>
         </div>
